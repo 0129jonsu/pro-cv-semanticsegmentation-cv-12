@@ -99,7 +99,7 @@ pro-cv-segmentation-cv-12/
 
 <img width="512" height="286" alt="Image" src="https://github.com/user-attachments/assets/7885c0d8-e8b9-45b6-bbe7-f4e5686cc041" />
 
-### 3.1 프로젝트 수행 절차
+### 3.1 프로젝트 수행 방법  
 
 1. Dataset EDA  
   a. 데이터 정보  
@@ -130,6 +130,6 @@ pro-cv-segmentation-cv-12/
 5. 앙상블 전략 구상 및 실험
 
 
-### 랩업리포트 링크 
+### 랩업리포트 링크   
 
 
