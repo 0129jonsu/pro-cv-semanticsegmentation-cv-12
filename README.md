@@ -8,7 +8,7 @@
 Hand Bone Image Segmentation  
 X-ray 손 뼈 영상에서 총 29개 뼈 클래스를 픽셀 단위로 분할(Semantic Segmentation) 하는 모델 개발
 
-<img width="1730" height="1135" alt="Image" src="https://github.com/user-attachments/assets/b60a5fa6-2480-4ff8-b6ab-d07005c420dc" />
+<img width="865" height="567" alt="Image" src="https://github.com/user-attachments/assets/b60a5fa6-2480-4ff8-b6ab-d07005c420dc" />
 
 ### 1.2 프로젝트 목표 및 기법법
 
