@@ -183,7 +183,8 @@ pro-cv-segmentation-cv-12/
 5. 앙상블 전략 구상 및 실험
 
 
-### 랩업리포트 링크   
+### 랩업리포트 링크
+<a href="[https://github.com/SongYerim](https://drive.google.com/file/d/1NMZ-KfFSc8uEYm6ZXsKU-Eju13eTVnwR/view?usp=sharing)">CV12-semanticsegmentaiton-wrap-up-report</a>
 
 
 ### 등수 
